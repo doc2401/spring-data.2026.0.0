@@ -1,0 +1,7 @@
+org.springframework.data.ldap.config
+org.springframework.data.ldap.core.mapping
+org.springframework.data.ldap.repository
+org.springframework.data.ldap.repository.cdi
+org.springframework.data.ldap.repository.config
+org.springframework.data.ldap.repository.query
+org.springframework.data.ldap.repository.support
